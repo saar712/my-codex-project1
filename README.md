@@ -1,6 +1,6 @@
 # my-codex-project1
 
-This repository contains a simple Python script to visualize the mouse cursor position in real time.
+This repository contains a simple Python script to visualize the mouse cursor position in real time on a 3D plot.
 
 ## Requirements
 
@@ -18,4 +18,4 @@ Run the tracker with:
 python3 mouse_tracker.py
 ```
 
-Move the mouse around and watch the scatter plot update.
+Move the mouse anywhere on your screen and watch the 3D line update with the cursor position over time.
